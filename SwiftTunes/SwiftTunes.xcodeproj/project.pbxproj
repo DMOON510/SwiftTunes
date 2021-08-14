@@ -1,0 +1,412 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		961418D726C771D800DA53E9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961418D626C771D800DA53E9 /* AppDelegate.swift */; };
+		961418D926C771D800DA53E9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961418D826C771D800DA53E9 /* SceneDelegate.swift */; };
+		961418DB26C771D800DA53E9 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961418DA26C771D800DA53E9 /* FirstViewController.swift */; };
+		961418DD26C771D800DA53E9 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961418DC26C771D800DA53E9 /* SecondViewController.swift */; };
+		961418E026C771D800DA53E9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 961418DE26C771D800DA53E9 /* Main.storyboard */; };
+		961418E226C771D900DA53E9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 961418E126C771D900DA53E9 /* Assets.xcassets */; };
+		961418E526C771D900DA53E9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 961418E326C771D900DA53E9 /* LaunchScreen.storyboard */; };
+		9614193926C7A90F00DA53E9 /* green.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9614193826C7A90F00DA53E9 /* green.jpg */; };
+		9614196126C7C15400DA53E9 /* good 4 u - Olivia Rodrigo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9614195426C7C15400DA53E9 /* good 4 u - Olivia Rodrigo.mp3 */; };
+		9614196226C7C15400DA53E9 /* Thriller - Michael Jackson.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9614195526C7C15400DA53E9 /* Thriller - Michael Jackson.mp3 */; };
+		9614196326C7C15400DA53E9 /* Blank Space - Taylor Swift.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9614195626C7C15400DA53E9 /* Blank Space - Taylor Swift.mp3 */; };
+		9614196426C7C15400DA53E9 /* Break Free - Ariana Grande.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9614195726C7C15400DA53E9 /* Break Free - Ariana Grande.mp3 */; };
+		9614196526C7C15400DA53E9 /* Toxic - Britney Spears.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9614195826C7C15400DA53E9 /* Toxic - Britney Spears.mp3 */; };
+		9614196626C7C15400DA53E9 /* Never Gonna Give You Up - Rick Astley.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9614195926C7C15400DA53E9 /* Never Gonna Give You Up - Rick Astley.mp3 */; };
+		9614196726C7C15400DA53E9 /* Billie Jean - Michael Jackson.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9614195A26C7C15400DA53E9 /* Billie Jean - Michael Jackson.mp3 */; };
+		9614196826C7C15400DA53E9 /* Problem - Ariana Grande ft. Iggy Azalea.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9614195B26C7C15400DA53E9 /* Problem - Ariana Grande ft. Iggy Azalea.mp3 */; };
+		9614196926C7C15400DA53E9 /* Heaven - EXO.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9614195C26C7C15400DA53E9 /* Heaven - EXO.mp3 */; };
+		9614196A26C7C15400DA53E9 /* Kill V. Maim - Grimes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9614195D26C7C15400DA53E9 /* Kill V. Maim - Grimes.mp3 */; };
+		9614196B26C7C15400DA53E9 /* Vincent - Don McLean.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9614195E26C7C15400DA53E9 /* Vincent - Don McLean.mp3 */; };
+		9614196C26C7C15400DA53E9 /* Can't Help Falling In Love - Elvis Presley.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9614195F26C7C15400DA53E9 /* Can't Help Falling In Love - Elvis Presley.mp3 */; };
+		9614196D26C7C15400DA53E9 /* Congratulations - Post Malone ft. Quavo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9614196026C7C15400DA53E9 /* Congratulations - Post Malone ft. Quavo.mp3 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		961418D326C771D700DA53E9 /* SwiftTunes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftTunes.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		961418D626C771D800DA53E9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		961418D826C771D800DA53E9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		961418DA26C771D800DA53E9 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		961418DC26C771D800DA53E9 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		961418DF26C771D800DA53E9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		961418E126C771D900DA53E9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		961418E426C771D900DA53E9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		961418E626C771D900DA53E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9614193826C7A90F00DA53E9 /* green.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = green.jpg; sourceTree = "<group>"; };
+		9614195426C7C15400DA53E9 /* good 4 u - Olivia Rodrigo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "good 4 u - Olivia Rodrigo.mp3"; sourceTree = "<group>"; };
+		9614195526C7C15400DA53E9 /* Thriller - Michael Jackson.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Thriller - Michael Jackson.mp3"; sourceTree = "<group>"; };
+		9614195626C7C15400DA53E9 /* Blank Space - Taylor Swift.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Blank Space - Taylor Swift.mp3"; sourceTree = "<group>"; };
+		9614195726C7C15400DA53E9 /* Break Free - Ariana Grande.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Break Free - Ariana Grande.mp3"; sourceTree = "<group>"; };
+		9614195826C7C15400DA53E9 /* Toxic - Britney Spears.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Toxic - Britney Spears.mp3"; sourceTree = "<group>"; };
+		9614195926C7C15400DA53E9 /* Never Gonna Give You Up - Rick Astley.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Never Gonna Give You Up - Rick Astley.mp3"; sourceTree = "<group>"; };
+		9614195A26C7C15400DA53E9 /* Billie Jean - Michael Jackson.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Billie Jean - Michael Jackson.mp3"; sourceTree = "<group>"; };
+		9614195B26C7C15400DA53E9 /* Problem - Ariana Grande ft. Iggy Azalea.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Problem - Ariana Grande ft. Iggy Azalea.mp3"; sourceTree = "<group>"; };
+		9614195C26C7C15400DA53E9 /* Heaven - EXO.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Heaven - EXO.mp3"; sourceTree = "<group>"; };
+		9614195D26C7C15400DA53E9 /* Kill V. Maim - Grimes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Kill V. Maim - Grimes.mp3"; sourceTree = "<group>"; };
+		9614195E26C7C15400DA53E9 /* Vincent - Don McLean.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Vincent - Don McLean.mp3"; sourceTree = "<group>"; };
+		9614195F26C7C15400DA53E9 /* Can't Help Falling In Love - Elvis Presley.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Can't Help Falling In Love - Elvis Presley.mp3"; sourceTree = "<group>"; };
+		9614196026C7C15400DA53E9 /* Congratulations - Post Malone ft. Quavo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Congratulations - Post Malone ft. Quavo.mp3"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		961418D026C771D700DA53E9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		961418CA26C771D700DA53E9 = {
+			isa = PBXGroup;
+			children = (
+				961418D526C771D700DA53E9 /* SwiftTunes */,
+				961418D426C771D700DA53E9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		961418D426C771D700DA53E9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				961418D326C771D700DA53E9 /* SwiftTunes.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		961418D526C771D700DA53E9 /* SwiftTunes */ = {
+			isa = PBXGroup;
+			children = (
+				961418D626C771D800DA53E9 /* AppDelegate.swift */,
+				961418D826C771D800DA53E9 /* SceneDelegate.swift */,
+				961418DA26C771D800DA53E9 /* FirstViewController.swift */,
+				961418DC26C771D800DA53E9 /* SecondViewController.swift */,
+				961418DE26C771D800DA53E9 /* Main.storyboard */,
+				961418E126C771D900DA53E9 /* Assets.xcassets */,
+				961418E326C771D900DA53E9 /* LaunchScreen.storyboard */,
+				9614193826C7A90F00DA53E9 /* green.jpg */,
+				961418E626C771D900DA53E9 /* Info.plist */,
+				9614195326C7C15400DA53E9 /* Songs */,
+			);
+			path = SwiftTunes;
+			sourceTree = "<group>";
+		};
+		9614195326C7C15400DA53E9 /* Songs */ = {
+			isa = PBXGroup;
+			children = (
+				9614195426C7C15400DA53E9 /* good 4 u - Olivia Rodrigo.mp3 */,
+				9614195526C7C15400DA53E9 /* Thriller - Michael Jackson.mp3 */,
+				9614195626C7C15400DA53E9 /* Blank Space - Taylor Swift.mp3 */,
+				9614195726C7C15400DA53E9 /* Break Free - Ariana Grande.mp3 */,
+				9614195826C7C15400DA53E9 /* Toxic - Britney Spears.mp3 */,
+				9614195926C7C15400DA53E9 /* Never Gonna Give You Up - Rick Astley.mp3 */,
+				9614195A26C7C15400DA53E9 /* Billie Jean - Michael Jackson.mp3 */,
+				9614195B26C7C15400DA53E9 /* Problem - Ariana Grande ft. Iggy Azalea.mp3 */,
+				9614195C26C7C15400DA53E9 /* Heaven - EXO.mp3 */,
+				9614195D26C7C15400DA53E9 /* Kill V. Maim - Grimes.mp3 */,
+				9614195E26C7C15400DA53E9 /* Vincent - Don McLean.mp3 */,
+				9614195F26C7C15400DA53E9 /* Can't Help Falling In Love - Elvis Presley.mp3 */,
+				9614196026C7C15400DA53E9 /* Congratulations - Post Malone ft. Quavo.mp3 */,
+			);
+			name = Songs;
+			path = ../../Songs;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		961418D226C771D700DA53E9 /* SwiftTunes */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 961418E926C771D900DA53E9 /* Build configuration list for PBXNativeTarget "SwiftTunes" */;
+			buildPhases = (
+				961418CF26C771D700DA53E9 /* Sources */,
+				961418D026C771D700DA53E9 /* Frameworks */,
+				961418D126C771D700DA53E9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SwiftTunes;
+			productName = SwiftTunes;
+			productReference = 961418D326C771D700DA53E9 /* SwiftTunes.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		961418CB26C771D700DA53E9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1130;
+				LastUpgradeCheck = 1130;
+				ORGANIZATIONNAME = "Donna Moon";
+				TargetAttributes = {
+					961418D226C771D700DA53E9 = {
+						CreatedOnToolsVersion = 11.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 961418CE26C771D700DA53E9 /* Build configuration list for PBXProject "SwiftTunes" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 961418CA26C771D700DA53E9;
+			productRefGroup = 961418D426C771D700DA53E9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				961418D226C771D700DA53E9 /* SwiftTunes */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		961418D126C771D700DA53E9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9614196C26C7C15400DA53E9 /* Can't Help Falling In Love - Elvis Presley.mp3 in Resources */,
+				961418E526C771D900DA53E9 /* LaunchScreen.storyboard in Resources */,
+				9614196226C7C15400DA53E9 /* Thriller - Michael Jackson.mp3 in Resources */,
+				9614196B26C7C15400DA53E9 /* Vincent - Don McLean.mp3 in Resources */,
+				961418E226C771D900DA53E9 /* Assets.xcassets in Resources */,
+				9614196A26C7C15400DA53E9 /* Kill V. Maim - Grimes.mp3 in Resources */,
+				9614196626C7C15400DA53E9 /* Never Gonna Give You Up - Rick Astley.mp3 in Resources */,
+				9614196326C7C15400DA53E9 /* Blank Space - Taylor Swift.mp3 in Resources */,
+				961418E026C771D800DA53E9 /* Main.storyboard in Resources */,
+				9614196D26C7C15400DA53E9 /* Congratulations - Post Malone ft. Quavo.mp3 in Resources */,
+				9614196426C7C15400DA53E9 /* Break Free - Ariana Grande.mp3 in Resources */,
+				9614196926C7C15400DA53E9 /* Heaven - EXO.mp3 in Resources */,
+				9614196726C7C15400DA53E9 /* Billie Jean - Michael Jackson.mp3 in Resources */,
+				9614193926C7A90F00DA53E9 /* green.jpg in Resources */,
+				9614196526C7C15400DA53E9 /* Toxic - Britney Spears.mp3 in Resources */,
+				9614196826C7C15400DA53E9 /* Problem - Ariana Grande ft. Iggy Azalea.mp3 in Resources */,
+				9614196126C7C15400DA53E9 /* good 4 u - Olivia Rodrigo.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		961418CF26C771D700DA53E9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				961418DD26C771D800DA53E9 /* SecondViewController.swift in Sources */,
+				961418DB26C771D800DA53E9 /* FirstViewController.swift in Sources */,
+				961418D726C771D800DA53E9 /* AppDelegate.swift in Sources */,
+				961418D926C771D800DA53E9 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		961418DE26C771D800DA53E9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				961418DF26C771D800DA53E9 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		961418E326C771D900DA53E9 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				961418E426C771D900DA53E9 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		961418E726C771D900DA53E9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		961418E826C771D900DA53E9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		961418EA26C771D900DA53E9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 2F55UJ7JHQ;
+				INFOPLIST_FILE = SwiftTunes/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = donnamoon.SwiftTunes;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		961418EB26C771D900DA53E9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 2F55UJ7JHQ;
+				INFOPLIST_FILE = SwiftTunes/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = donnamoon.SwiftTunes;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		961418CE26C771D700DA53E9 /* Build configuration list for PBXProject "SwiftTunes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				961418E726C771D900DA53E9 /* Debug */,
+				961418E826C771D900DA53E9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		961418E926C771D900DA53E9 /* Build configuration list for PBXNativeTarget "SwiftTunes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				961418EA26C771D900DA53E9 /* Debug */,
+				961418EB26C771D900DA53E9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 961418CB26C771D700DA53E9 /* Project object */;
+}

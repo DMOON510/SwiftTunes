@@ -14,5 +14,5 @@ SwiftTunes is a minimalistic music playing iOS application where you can listen 
 ## How to Access
 1. Download XCode
 2. Clone source code, open project in XCode
-3. Click play button to see the simulated app
-4. Connect phone to computer using USB to view on mobile device
+3. Click play/build button to view the simulated app
+4. Connect phone to computer using USB to use on mobile device

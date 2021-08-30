@@ -5,6 +5,9 @@ SwiftTunes is a minimalistic music playing iOS application where you can listen 
 - User-friendly features including volume adjustment slider, buttons to skip songs or go back to songs, pause/play buttons
 - Visually aesthetic user interface
 
+## Demo 
+https://user-images.githubusercontent.com/51987755/131276885-864e2eb8-1a5a-4a2e-b52a-197dfcd57943.mov
+
 ## Preview
 <p float = "left">
 <img width="325" alt="Screen Shot 2021-08-14 at 2 16 38 AM" src="https://user-images.githubusercontent.com/51987755/129443174-6fc3c436-4e73-4246-b8c2-63738d7eec1c.png">
